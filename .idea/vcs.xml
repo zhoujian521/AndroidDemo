@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/class_addProtocol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cross-request" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/egg-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fe_cms_h5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http-sever" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mockserver /express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/music_app_fe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/showcase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-extension" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue2-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue_weui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zj-chrome-ext" vcs="Git" />
+  </component>
+</project>
